@@ -40,6 +40,7 @@ disponivel um banco de dados na MLab, ou se for de preferencia levantem um store
 
 ### Execução dos testes
 Os testes foram feitos com o Mocha, SuperTest e Chai
+
 `npm test
 `
 ### Documentação
